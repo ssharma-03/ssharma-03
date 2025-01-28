@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGUeKw_AK3PAg/profile-displaybackgroundimage-shrink_350_1400/0/1718453170191?e=1726704000&v=beta&t=IejuuDiZBVHcSOF8aB4pW9qnUk81CYeV2CywElerDks) 
 
 
-<h1 align="center">Hi 👋, I'm Somya Sharma</h1>
+<h1 align="center"> नमस्कार 🙏, मैं सौम्य शर्मा</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ssharma-03/docs/blob/main/gif1.gif">
