@@ -45,4 +45,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssharma-03&show_icons=true&locale=en&theme=dark&bg_color=151515&title_color=0000ff&text_color=ffffff&icon_color=ffaa00&border_color=ff0000" alt="ssharma-03" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ssharma-03&theme=highcontrast&background=151515&border=ff0000&ring=ffaa00&fire=ffaa00&currStreakNum=ffffff&sideNums=0000ff&dates=ffffff&currStreakLabel=0000ff&stroke=ff0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ssharma-03&theme=highcontrast&background=151515&border=ff0000&ring=ffaa00&fire=ffaa00&currStreakNum=ffffff&sideNums=0000ff&dates=ffffff&currStreakLabel=0000ff&stroke=ff0000)](https://git.io/streak-stats)
+
