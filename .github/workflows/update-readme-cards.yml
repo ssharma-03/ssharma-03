@@ -1,27 +1,20 @@
-name: Update README Cards
+name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:        # lets you trigger it manually anytime
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
+      - uses: actions/checkout@v6
 
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Create profile directory
-        run: mkdir -p profile
-
-      - name: Generate GitHub statistics
+      - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -29,28 +22,25 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages
+      - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate contribution streak
+      - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=E5E5E5&dates=E5E5E5&currStreakNum=E5E5E5&sideLabels=8A8A8A&disable_animations=true
+          options: user=${{ github.repository_owner }}&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=E5E5E5&dates=E5E5E5&currStreakNum=E5E5E5
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated cards
+      - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add profile/*.svg
-
-          git commit -m "Update GitHub profile cards" || exit 0
-
+          git commit -m "Update README cards" || exit 0
           git push
