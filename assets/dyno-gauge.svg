@@ -1,0 +1,48 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a6d1f"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#FFE9A8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="400" height="260" fill="#0D0D0D"/>
+
+  <path d="M 30 220 A 170 170 0 0 1 370 220" fill="none" stroke="#262626" stroke-width="22" stroke-linecap="round"/>
+
+  <path d="M 30 220 A 170 170 0 0 1 370 220" fill="none" stroke="url(#goldGrad)" stroke-width="22"
+        stroke-linecap="round" stroke-dasharray="437 534" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" from="0 534" to="437 534" dur="1.8s" fill="freeze" />
+  </path>
+
+  <g stroke="#D4AF37" stroke-width="2">
+    <line x1="30" y1="220" x2="50" y2="220"/>
+    <line x1="62.5" y1="120.1" x2="78.6" y2="131.8"/>
+    <line x1="147.5" y1="58.3" x2="153.65" y2="77.3"/>
+    <line x1="252.5" y1="58.3" x2="246.35" y2="77.3"/>
+    <line x1="337.5" y1="120.1" x2="321.4" y2="131.8"/>
+    <line x1="370" y1="220" x2="350" y2="220"/>
+  </g>
+
+  <g>
+    <line x1="200" y1="220" x2="318" y2="145" stroke="#D4AF37" stroke-width="4" stroke-linecap="round" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="-70 200 220" to="0 200 220" dur="1.8s" fill="freeze"/>
+    </line>
+    <circle cx="200" cy="220" r="9" fill="#D4AF37"/>
+    <circle cx="200" cy="220" r="4" fill="#0D0D0D"/>
+  </g>
+
+  <text x="200" y="60" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" letter-spacing="3" fill="#8a8a8a">IDLE</text>
+  <text x="200" y="45" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" letter-spacing="3" fill="#8a8a8a"></text>
+
+  <text x="200" y="246" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" letter-spacing="3" fill="#E5E5E5">ENGINEERING OUTPUT</text>
+  <text x="200" y="264" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#D4AF37">BUILD MODE : ACTIVE</text>
+</svg>
