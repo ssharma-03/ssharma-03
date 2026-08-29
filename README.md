@@ -1,49 +1,138 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGUeKw_AK3PAg/profile-displaybackgroundimage-shrink_350_1400/0/1718453170191?e=1726704000&v=beta&t=IejuuDiZBVHcSOF8aB4pW9qnUk81CYeV2CywElerDks) 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&duration=2600&pause=999999&color=D4AF37&center=true&vCenter=true&repeat=false&width=640&height=60&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0+%F0%9F%99%8F%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%B8%E0%A5%8C%E0%A4%AE%E0%A5%8D%E0%A4%AF+%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE" alt="Namaskar, main Somya Sharma"/>
 
-<h1 align="center"> नमस्कार 🙏, मैं सौम्य शर्मा</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1800&pause=1200&color=E5E5E5&center=true&vCenter=true&repeat=true&width=500&height=32&lines=Applied+AI+Engineer;Product+Builder;Founder%2C+Maruti+Solutions" alt="Applied AI Engineer, Product Builder, Founder"/>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/ssharma-03/docs/blob/main/gif1.gif">
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=ssharma-03&label=views&color=D4AF37&style=flat-square" height="20" alt="Profile views"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssharma-03&label=Profile%20views&color=0e75b6&style=flat" alt="ssharma-03" /> </p>
+</div>
 
+<br/>
 
-<p align="left"> <a href="https://x.com/_SomyaSharma_3" target="blank"><img src="https://img.shields.io/twitter/follow/_SomyaSharma_3?logo=twitter&style=for-the-badge" alt="Somya Sharma"  </p>
+```bash
+$ whoami
+> Somya Sharma :: AI Product Engineer
+> I build systems that think.
+> Based in Bengaluru, India.
+```
+<br/>
 
- 
-- 🔭 I’m currently working on [AI Projects](https://github.com/ssharma-03)
+<div align="center">
 
-- 🌱 I’m currently learning **Machine Learning**
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=700&pause=999999&color=D4AF37&center=true&vCenter=true&repeat=false&width=180&height=36&lines=About" alt="About"/>
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ssharma-03](https://github.com/ssharma-03)
-
-- 💬 Ask me about **Data Analysis**
-
-- 📫 How to reach me **workwithsomyasharma@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-  
-<a href="https://twitter.com/_SomyaSharma_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somyasharma_3" height="30" width="40" /></a>
-<a href="https://instagram.com/ś𝓸𝓶𝔂𝓪_𝓈𝒽𝒶𝓇𝓂𝒶_𝓂𝒽𝓈_⁰³" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ś𝓸𝓶𝔂𝓪_𝓈𝒽𝒶𝓇𝓂𝒶_𝓂𝒽𝓈_⁰³" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sharmasomyamhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sharmasomyamhs" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@somya372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@somya372" height="30" width="40" /></a>
+<p>
+I work on the applied side of AI: taking models and turning them into software people actually use.
+<br/>
+I co-found and build <strong>Maruti Solutions</strong>, a Bengaluru-based studio shipping production AI systems for real businesses.
+<br/>
+I taught Python and data analytics to over three hundred students, which is still why I care as much about how code reads as how it runs.
 </p>
+<br/>
+<img src="https://img.shields.io/badge/FOCUS-APPLIED_AI_%C2%B7_PRODUCT-0D0D0D?style=flat-square&labelColor=0D0D0D&color=0D0D0D" alt="Focus: Applied AI and Product"/>
+<img src="https://img.shields.io/badge/BASED-BENGALURU%2C_IN-0D0D0D?style=flat-square&labelColor=0D0D0D&color=0D0D0D" alt="Based in Bengaluru, India"/>
+<img src="https://img.shields.io/badge/MENTORED-300%2B_STUDENTS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=0D0D0D" alt="Mentored 300+ students"/>
+</div>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=700&pause=999999&color=D4AF37&center=true&vCenter=true&repeat=false&width=180&height=36&lines=Work" alt="Work"/>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssharma-03&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515&title_color=0000ff&text_color=ffffff&icon_color=ffaa00&border_color=ff0000" alt="ssharma-03" />
-</p>
+<br/>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssharma-03&show_icons=true&locale=en&theme=dark&bg_color=151515&title_color=0000ff&text_color=ffffff&icon_color=ffaa00&border_color=ff0000" alt="ssharma-03" />
-</p>
+<strong>Maruti Solutions</strong>&nbsp;&nbsp;&nbsp;<code>co-founder</code>
+<br/>
+Custom AI studio building production-grade AI systems for real businesses.
+<br/>
+<a href="https://marutisolutions.in/">marutisolutions.in →</a>
+<br/><br/>
+<strong>Bolke</strong>&nbsp;&nbsp;&nbsp;<code>founder</code> <code>in development</code>
+<br/>
+Voice-first GST billing built for Indian small shop owners,
+<br/>
+designed for people who have never used a billing app before.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ssharma-03&theme=highcontrast&background=151515&border=ff0000&ring=ffaa00&fire=ffaa00&currStreakNum=ffffff&sideNums=0000ff&dates=ffffff&currStreakLabel=0000ff&stroke=ff0000)](https://git.io/streak-stats)
+</div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=700&pause=999999&color=D4AF37&center=true&vCenter=true&repeat=false&width=280&height=36&lines=Dynamo" alt="Dynamo"/>
+
+<br/>
+
+A gauge doesn't lie about output. This one tracks build intensity, not vanity metrics.
+
+<br/><br/>
+
+
+<img src="https://raw.githubusercontent.com/ssharma-03/ssharma-03/main/assets/dyno-gauge.svg?v=2" width="520" alt="Dynamo engineering output gauge"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=700&pause=999999&color=D4AF37&center=true&vCenter=true&repeat=false&width=180&height=36&lines=Stack" alt="Stack"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI-0D0D0D?style=flat-square&logo=openai&logoColor=D4AF37" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Data_Analytics-0D0D0D?style=flat-square&logo=googleanalytics&logoColor=D4AF37" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/ML-0D0D0D?style=flat-square&logo=tensorflow&logoColor=D4AF37" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/RAG-0D0D0D?style=flat-square&logo=langchain&logoColor=D4AF37" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLM-0D0D0D?style=flat-square&logo=huggingface&logoColor=D4AF37" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0D0D0D?style=flat-square&logo=huggingface&logoColor=D4AF37" alt="Hugging Face"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=D4AF37" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=D4AF37" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=D4AF37" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=D4AF37" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=D4AF37" alt="Supabase"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=D4AF37" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=D4AF37" alt="Linux"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=700&pause=999999&color=D4AF37&center=true&vCenter=true&repeat=false&width=200&height=36&lines=GitHub" alt="GitHub"/>
+
+<br/><br/>
+
+<img src="./profile/stats.svg?v=2" height="165" alt="GitHub statistics"/>
+<img src="./profile/top-langs.svg?v=2" height="165" alt="Top languages"/>
+
+<br/><br/>
+<img src="./profile/streak.svg?v=2" width="620" alt="GitHub contribution streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=700&pause=999999&color=D4AF37&center=true&vCenter=true&repeat=false&width=220&height=36&lines=Connect" alt="Connect"/>
+<br/><br/>
+<a href="https://somya-sharma.in">
+  <img src="https://img.shields.io/badge/SS03-0D0D0D?style=flat-square&labelColor=0D0D0D&color=0D0D0D" alt="Website"/>
+</a>
+<a href="https://www.linkedin.com/in/somya-sharma-mhs/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/_SomyaSharma_3">
+  <img src="https://img.shields.io/badge/X-0D0D0D?style=flat-square&logo=x&logoColor=D4AF37" alt="X"/>
+</a>
+<a href="https://www.reddit.com/u/Neural-Navigator/s/v998kdX732">
+  <img src="https://img.shields.io/badge/Reddit-0D0D0D?style=flat-square&logo=reddit&logoColor=D4AF37" alt="Reddit"/>
+</a>
+<a href="mailto:workwithsomyasharma@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=D4AF37" alt="Email"/>
+</a>
+
+</div>
